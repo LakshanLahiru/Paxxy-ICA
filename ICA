@@ -12,7 +12,6 @@ import threading
 import os
 import warnings
 
-# Suppress all runtime warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 ########################################################################
 
